@@ -1,12 +1,12 @@
 formatversion: 1.0.0
 
 info:
-  name: <template_name>
-  summary: One line summary of <template_name>
+  name: qa test template
+  summary: One line summary of qa test template
   description: |
-    In depth description of <template_name>
+    In depth description of qa test template
     With lots of details.
-  authors: ['Someone <b@someone.com> (http://someone.tumblr.com/)']
+  authors: ['testing@exosite.com']
   version: 1.0.0
 
 ####
